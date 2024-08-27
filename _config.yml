@@ -1,1 +1,11 @@
+title: Josh Peacock
+email: joshpeacock330@gmail.com
+description: > 
+  Josh Peacock | Software Engineer | Musician | Human
+baseurl: ""
+github_username: josh-peacock
+
 theme: jekyll-theme-minimal
+
+# Build setting
+markdown: kramdown

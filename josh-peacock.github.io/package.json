@@ -1,7 +1,7 @@
 {
   "name": "josh-peacock.github.io",
   "version": "0.1.0",
-  "homepage": "https://josh-peacock.github.io/",
+  "homepage": "https://josh-peacock.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
